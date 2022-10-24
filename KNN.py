@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
 """
-Created on Mon May 16 03:36:39 2022
-
-@author: Yehia Ibrahim
+A simple KNN model
 """
 
 from collections import Counter
